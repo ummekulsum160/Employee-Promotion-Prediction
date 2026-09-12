@@ -193,8 +193,3 @@ This project is an **educational Machine Learning project** based on a synthetic
 * Add authentication for HR users
 * Improve fairness and bias detection
 
-## Author
-
-**Syeda Umme Kulsum**
-
-BCA Student | Machine Learning & Data Analytics Learner
